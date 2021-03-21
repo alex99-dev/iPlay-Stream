@@ -6,6 +6,4 @@ The iPlay-Stream is a fabulous video player that allows end-users to stream own 
 
 
 # Features
-# header H1
-## header H2
-### header H3
+* [General info](#general-info)
