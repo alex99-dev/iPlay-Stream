@@ -1,0 +1,6 @@
+framework module Pods_iPlay_Stream {
+  umbrella header "Pods-iPlay Stream-umbrella.h"
+
+  export *
+  module * { export * }
+}
