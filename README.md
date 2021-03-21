@@ -6,7 +6,7 @@ The iPlay-Stream is a fabulous video player that allows end-users to stream own 
 
 
 # Features
-* Support  HTTP , HLS , M3U8, AVI, MP4 etc.
+* Support  HTTP , HLS , M3U8, AVI, MP4 
 * Support m3u list import
 * Friendly interface 
 
