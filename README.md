@@ -1,2 +1,2 @@
-# iPlay-Stream
-Release V1.0
+# iPlay-Stream V1.0
+
